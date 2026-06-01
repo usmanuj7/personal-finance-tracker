@@ -1,0 +1,1 @@
+# Dependencies\nnode_modules/\nnpm-debug.log\nyarn-error.log\npnpm-debug.log\n\n# Build\ndist/\nbuild/\n\n# IDE\n.vscode/\n.idea/\n*.swp\n*.swo\n*~\n.DS_Store\n\n# Env\n.env\n.env.local\n.env.*.local\n
